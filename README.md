@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I’m Kyosuke Tanino!
 
-<!--
-**ktanino10/ktanino10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+I work as an SMB Account Executive at GitHub.  
+I am passionate about connecting technology with people and supporting the manufacturing field every day.
 
-Here are some ideas to get you started:
+## 🎯 Interests
+- Making Anything
+- History, shrines, and culture
+- Data analysis and insights
+- Traveling and relaxing in hot springs
+- Playing the finger drum and music
+- Training and staying active
+- Movies, anime, and manga
+- Cats 🐱
+- Volunteering to teach children the joy of STEM
+- Curious about Octocat, GitHub's mascot 🐙🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m curious about a wide range of things!
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/170919236/)
+
+## 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktanino10&show_icons=true&theme=github_dark)
