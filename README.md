@@ -16,8 +16,6 @@ I am passionate about connecting technology with people and supporting the manuf
 - Volunteering to teach children the joy of STEM
 - Curious about Octocat, GitHub's mascot 🐙🐱
 
-![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-
 I’m curious about a wide range of things!
 
 ## 📫 Contact
