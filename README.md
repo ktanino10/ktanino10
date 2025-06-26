@@ -5,7 +5,7 @@ I work as an SMB Account Executive at GitHub.
 I am passionate about connecting technology with people and supporting the manufacturing field every day.
 
 ## 🎯 Interests
-- Making things (DIY and technology)
+- Making Anything
 - History, shrines, and culture
 - Data analysis and insights
 - Traveling and relaxing in hot springs
